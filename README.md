@@ -30,4 +30,4 @@ This project using Maven as build tool as such it needs to be installed.
 
 ## Design Docs
 
-
+![Class Diagram](https://github.com/UDAYADAV/parking-management-system/blob/master/docs/ParkingServiceClassDiagram.png)
