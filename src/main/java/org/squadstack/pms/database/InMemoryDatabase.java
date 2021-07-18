@@ -27,7 +27,7 @@ public class InMemoryDatabase {
         }
     }
 
-    public static Optional<Integer> getAvailableSlot() {
+    private static Optional<Integer> getAvailableSlot() {
         return Optional.ofNullable(availableSlotIds.peek());
     }
 
