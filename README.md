@@ -69,3 +69,5 @@ This class exposes below methods:
 * `ProducerFactory` : Returns the appropriate implementation of the CommandProcessor based on the command being passed.
 
 ![Class Diagram](https://github.com/UDAYADAV/parking-management-system/blob/master/docs/ParkingServiceClassDiagram.png)
+![Coverage Report](https://github.com/UDAYADAV/parking-management-system/blob/master/docs/coverageReport.png)
+![Java Docs](https://github.com/UDAYADAV/parking-management-system/blob/master/docs/javaDocs.png)
