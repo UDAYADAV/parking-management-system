@@ -68,6 +68,11 @@ This class exposes below methods:
 * `CommandProcessor` implementation just does the input conversion and delegates the calls to ParkingService for the business logic.
 * `ProducerFactory` : Returns the appropriate implementation of the CommandProcessor based on the command being passed.
 
+## Class Diagram
 ![Class Diagram](https://github.com/UDAYADAV/parking-management-system/blob/master/docs/ParkingServiceClassDiagram.png)
+
+## Coverage Report
 ![Coverage Report](https://github.com/UDAYADAV/parking-management-system/blob/master/docs/coverageReport.png)
+
+## JavaDocs
 ![Java Docs](https://github.com/UDAYADAV/parking-management-system/blob/master/docs/javaDocs.png)
