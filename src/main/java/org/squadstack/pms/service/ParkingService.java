@@ -18,7 +18,7 @@ public interface ParkingService {
 
     /**
      * @param slotId The slotId that is being marked as free
-     * @return {@link Vehicle} Details of the vehicle & slot
+     * @return {@link Vehicle} Details of the vehicle and slot
      * @throws InvalidSlotIdException If slotId is invalid or no vehicle is parked
      */
     Vehicle leave(int slotId) throws InvalidSlotIdException;

@@ -22,5 +22,12 @@ This project using Maven as build tool as such it needs to be installed.
           Run `java -Dinput.file.path="PATH_TO_INPUT_FILE" -jar ./parking-management-system-1.0-SNAPSHOT.jar` to run the
           program
 
+## Generating Javadocs
+* Run `mvn javadoc:javadoc` from project root
+* Open `target/site/apidocs/index.html`
+* Click on `org.squadstack.pms.service` in package
+* Click on `ParkingService` interface
+
 ## Design Docs
+
 
